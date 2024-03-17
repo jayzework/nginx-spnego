@@ -1,4 +1,5 @@
-#NGINX with SPNEGO module
+# NGINX with SPNEGO module
+
 Reference: [fclmann\alpine-nginx-spnego](https://github.com/fclmman/alpine-nginx-spnego)
 
 Docker image with SPNEGO module added through NGINX dynamic modules
